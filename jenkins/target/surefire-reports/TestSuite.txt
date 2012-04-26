@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 43.218 sec <<< FAILURE!
+testUntitled(com.bromine.test.LoginTest)  Time elapsed: 33.781 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"ProjectProjectId"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.2.1', revision: '16551', time: '2012-04-11 21:42:35'
+System info: os.name: 'Windows XP', os.arch: 'x86', os.version: '5.1', java.version: '1.6.0_20'
+Driver info: driver.version: RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:175)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:128)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:459)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:227)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:256)
+	at org.openqa.selenium.By$ById.findElement(By.java:216)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:219)
+	at com.bromine.test.LoginTest.testUntitled(LoginTest.java:29)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"id","selector":"ProjectProjectId"}
+Build info: version: '2.2.1', revision: '16551', time: '2012-04-11 21:42:35'
+System info: os.name: 'Windows XP', os.arch: 'x86', os.version: '5.1', java.version: '1.6.0_20'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(file:///C:/WINXP/TEMP/anonymous8081979254318019564webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:6573)
+	at <anonymous class>.<anonymous method>(file:///C:/WINXP/TEMP/anonymous8081979254318019564webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:471)

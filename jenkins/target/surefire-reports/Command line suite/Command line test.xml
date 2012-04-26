@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="eprupetw0194" name="com.bromine.test.LoginTest" tests="1" failures="1" timestamp="25 Apr 2012 13:53:52 GMT" time="42.813" errors="0">
+  <testcase name="testUntitled" time="33.765" classname="com.bromine.test.LoginTest">
+    <failure type="org.openqa.selenium.NoSuchElementException" message="Unable to locate element: {&amp;quot;method&amp;quot;:&amp;quot;id&amp;quot;,&amp;quot;selector&amp;quot;:&amp;quot;ProjectProjectId&amp;quot;}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &amp;apos;2.2.1&amp;apos;, revision: &amp;apos;16551&amp;apos;, time: &amp;apos;2012-04-11 21:42:35&amp;apos;
+System info: os.name: &amp;apos;Windows XP&amp;apos;, os.arch: &amp;apos;x86&amp;apos;, os.version: &amp;apos;5.1&amp;apos;, java.version: &amp;apos;1.6.0_20&amp;apos;
+Driver info: driver.version: RemoteWebDriver">
+      <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"ProjectProjectId"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.2.1', revision: '16551', time: '2012-04-11 21:42:35'
+System info: os.name: 'Windows XP', os.arch: 'x86', os.version: '5.1', java.version: '1.6.0_20'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:175)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:128)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:459)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:227)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:256)
+	at org.openqa.selenium.By$ById.findElement(By.java:216)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:219)
+	at com.bromine.test.LoginTest.testUntitled(LoginTest.java:29)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:76)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:161)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:101)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:115)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:103)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:74)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"id","selector":"ProjectProjectId"}
+Build info: version: '2.2.1', revision: '16551', time: '2012-04-11 21:42:35'
+System info: os.name: 'Windows XP', os.arch: 'x86', os.version: '5.1', java.version: '1.6.0_20'
+Driver info: driver.version: unknown
+	at <anonymous class>.<anonymous method>(file:///C:/WINXP/TEMP/anonymous8081979254318019564webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:6573)
+	at <anonymous class>.<anonymous method>(file:///C:/WINXP/TEMP/anonymous8081979254318019564webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:471)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+</testsuite>

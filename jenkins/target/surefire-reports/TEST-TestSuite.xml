@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="1" time="33.781" errors="0" skipped="0" tests="1" name="TestSuite">
+  <properties>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="JOB_NAME" value="one more test"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="2"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="JENKINS_HOME" value="C:\Program Files\Jenkins"/>
+    <property name="$WEBDRIVER_HOME" value="D:\Selenium\selenium-2.0b2"/>
+    <property name="HUDSON_SERVER_COOKIE" value="1bcb7a9a142224bcacbc904c881a0ad2"/>
+    <property name="os.name" value="Windows XP"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.6.0_20\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_20\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_20\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_20\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_20\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_20\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_20\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.PSC1;.PSC1;.RB;.RBW"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\WINXP\TEMP"/>
+    <property name="java.runtime.version" value="1.6.0_20-b02"/>
+    <property name="user.name" value="SYSTEM"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="user.language" value="en"/>
+    <property name="maven.interceptor.override" value="C:\Program Files\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven2.1-interceptor-1.2.jar"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0_20\jre\bin"/>
+    <property name="devmgr_show_nonpresent_devices" value="0"/>
+    <property name="java.version" value="1.6.0_20"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0_20\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="2012-04-25_17-53-03"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="DEVMGR_SHOW_DETAILS" value="0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\Documents and Settings\All Users"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.6.0_20\jre"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="os.version" value="5.1"/>
+    <property name="TMP" value="C:\WINXP\TEMP"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="16.3-b01"/>
+    <property name="user.variant" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.6.0_20"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\WINXP\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="COMPUTERNAME" value="EPRUPETW0194"/>
+    <property name="maven.interceptor" value="C:\Program Files\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven-interceptor-1.2.jar"/>
+    <property name="user.home" value="C:\"/>
+    <property name="BUILD_TAG" value="jenkins-one more test-3"/>
+    <property name="JENKINS_SERVER_COOKIE" value="1bcb7a9a142224bcacbc904c881a0ad2"/>
+    <property name="HUDSON_URL" value="http://localhost:8081/"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="USERPROFILE" value="C:\Documents and Settings\LocalService"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.6.0_20\bin;.;C:\WINXP\Sun\Java\bin;C:\WINXP\system32;C:\WINXP;C:\apache-maven-2.2.1-bin\apache-maven-2.2.1/bin;C:\Program Files\Java\jdk1.6.0_20/bin;C:\Ruby193\bin;C:\curl-7.19.5;C:\apache-maven-2.2.1-bin\apache-maven-2.2.1\bin; C:\Program Files\PHP\;C:\xampp\xampp\php; C:\Ruby\bin;C:\WINXP\system32;C:\WINXP;C:\WINXP\System32\Wbem;C:\Program Files\Windows Imaging\;C:\WINXP\system32\WindowsPowerShell\v1.0;C:\WINXP\system32\WindowsPowerShell\v1.0"/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="C:\apache-maven-2.2.1-bin\apache-maven-2.2.1"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.class.path" value="C:\Program Files\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven-agent-1.2.jar;C:\apache-maven-2.2.1-bin\apache-maven-2.2.1\boot\classworlds-1.1.jar"/>
+    <property name="Path" value="C:\Ruby193\bin;C:\curl-7.19.5;C:\apache-maven-2.2.1-bin\apache-maven-2.2.1\bin; C:\Program Files\PHP\;C:\xampp\xampp\php; C:\Ruby\bin;C:\WINXP\system32;C:\WINXP;C:\WINXP\System32\Wbem;C:\Program Files\Windows Imaging\;C:\WINXP\system32\WindowsPowerShell\v1.0;C:\WINXP\system32\WindowsPowerShell\v1.0"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.6.0_20/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 15 Stepping 2, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.os.patch.level" value="Service Pack 3"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\apache-maven-2.2.1-bin\apache-maven-2.2.1"/>
+    <property name="java.io.tmpdir" value="C:\WINXP\TEMP\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Program Files\Jenkins"/>
+    <property name="PATH+MAVEN" value="C:\apache-maven-2.2.1-bin\apache-maven-2.2.1/bin"/>
+    <property name="BUILD_URL" value="http://localhost:8081/job/one%20more%20test/3/"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="x86"/>
+    <property name="SystemRoot" value="C:\WINXP"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.6.0_20\jre\lib\ext;C:\WINXP\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="D:\temp\workspace"/>
+    <property name="JOB_URL" value="http://localhost:8081/job/one%20more%20test/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\apache-maven-2.2.1-bin\apache-maven-2.2.1"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="BUILD_NUMBER" value="3"/>
+    <property name="BASE" value="C:\Program Files\Jenkins"/>
+    <property name="JENKINS_URL" value="http://localhost:8081/"/>
+    <property name="PROCESSOR_REVISION" value="0f02"/>
+    <property name="UATDATA" value="C:\WINXP\system32\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="windir" value="C:\WINXP"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="WORKSPACE" value="C:\Program Files\Jenkins\jobs\one more test\workspace"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="PSModulePath" value="C:\WINXP\system32\WindowsPowerShell\v1.0\Modules\"/>
+  </properties>
+  <testcase time="33.781" classname="com.bromine.test.LoginTest" name="testUntitled">
+    <failure message="Unable to locate element: {&quot;method&quot;:&quot;id&quot;,&quot;selector&quot;:&quot;ProjectProjectId&quot;}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.2.1&apos;, revision: &apos;16551&apos;, time: &apos;2012-04-11 21:42:35&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0_20&apos;
+Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;id&quot;,&quot;selector&quot;:&quot;ProjectProjectId&quot;}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.2.1&apos;, revision: &apos;16551&apos;, time: &apos;2012-04-11 21:42:35&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0_20&apos;
+Driver info: driver.version: RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:175)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:128)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:459)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:227)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:256)
+	at org.openqa.selenium.By$ById.findElement(By.java:216)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:219)
+	at com.bromine.test.LoginTest.testUntitled(LoginTest.java:29)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {&quot;method&quot;:&quot;id&quot;,&quot;selector&quot;:&quot;ProjectProjectId&quot;}
+Build info: version: &apos;2.2.1&apos;, revision: &apos;16551&apos;, time: &apos;2012-04-11 21:42:35&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0_20&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.&lt;anonymous method&gt;(file:///C:/WINXP/TEMP/anonymous8081979254318019564webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:6573)
+	at &lt;anonymous class&gt;.&lt;anonymous method&gt;(file:///C:/WINXP/TEMP/anonymous8081979254318019564webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:471)
+</failure>
+    <system-out>Configuring TestNG with: org.apache.maven.surefire.testng.conf.TestNGMapConfigurator@dd5b
+</system-out>
+  </testcase>
+</testsuite>

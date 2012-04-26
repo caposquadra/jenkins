@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="30" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="128" y="120">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="50" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="74" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.jubula.client.ui.toolbar.LanguageToolbar" itemType="typeToolBarContribution" x="50" y="22"/>
+<coolItem id="org.eclipse.jubula.client.ui.toolbar.CentralTestDataToolbar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.jubula.client.ui.toolbar.AutStarterToolbar" itemType="typeToolBarContribution" x="74" y="22"/>
+<coolItem id="org.eclipse.jubula.client.ui.toolbar.AutToolbar" itemType="typeToolBarContribution" x="50" y="22"/>
+<coolItem id="org.eclipse.jubula.client.ui.toolbar.TestSuiteToolbar" itemType="typeToolBarContribution" x="109" y="22"/>
+<coolItem id="org.eclipse.jubula.client.ui.toolbar.ObservationToolbar" itemType="typeToolBarContribution" x="74" y="22"/>
+<coolItem id="org.eclipse.jubula.client.ui.toolbar.ObjectMappingToolbar" itemType="typeToolBarContribution" x="74" y="22"/>
+<coolItem id="org.eclipse.jubula.client.ui.toolbar.TestResultToolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="87" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1335441530018" focus="true" label="Workspace - Functional Test Specification">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name=".project" partName=".project" title=".project" tooltip="C:\Documents and Settings\Dmitry_Zimin1\git\jenkins\jenkins\.project" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Documents%20and%20Settings/Dmitry_Zimin1/git/jenkins/jenkins/.project"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jubula.client.ui.views.CompNamesView" partName="Component Names"/>
+<view id="org.eclipse.jubula.client.ui.views.RunningAuts" partName="Running AUTs">
+<viewState/>
+</view>
+<view id="org.eclipse.jubula.client.ui.views.TestCaseBrowser" partName="Test Case Browser">
+<viewState/>
+</view>
+<view id="org.eclipse.jubula.client.ui.views.TestSuiteBrowser" partName="Test Suite Browser">
+<viewState/>
+</view>
+<view id="org.eclipse.jubula.client.ui.views.DataSetView" partName="Data Sets">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProgressView" partName="Progress">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="75" org.eclipse.ui.ide.markerType="75" org.eclipse.ui.ide.pathField="100" org.eclipse.ui.ide.resourceField="75" org.eclipse.ui.ide.severityAndDescriptionField="250"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.jubula.client.ui.views.ComponentNameBrowser" partName="Component Name Browser">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jubula.client.ui.views.TestSuiteBrowser" activePerspective="org.eclipse.jubula.client.ui.perspectives.SpecificationPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jubula.client.ui.perspective.SpecificationPerspective" id="org.eclipse.jubula.client.ui.perspectives.SpecificationPerspective" label="Functional Test Specification"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.jubula.client.ui.menu.actions"/>
+<alwaysOnActionSet id="org.eclipse.jubula.client.ui.globalActions"/>
+<show_view_action id="org.eclipse.jubula.client.inspector.views.inspectorView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.jubula.client.ui.views.TestSuiteBrowser"/>
+<show_view_action id="org.eclipse.jubula.client.ui.views.TestCaseBrowser"/>
+<show_view_action id="org.eclipse.jubula.client.ui.views.ComponentNameBrowser"/>
+<show_view_action id="org.eclipse.jubula.client.ui.views.DataSetView"/>
+<show_view_action id="org.eclipse.jubula.client.ui.views.CompNamesView"/>
+<show_view_action id="org.eclipse.jubula.client.ui.views.TestresultSummaryView"/>
+<show_view_action id="org.eclipse.jubula.client.ui.views.Image"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<perspective_action id="org.eclipse.jubula.client.ui.perspectives.ExecutionPerspective"/>
+<perspective_action id="org.eclipse.jubula.client.ui.perspectives.SpecificationPerspective"/>
+<perspective_action id="org.eclipse.jubula.client.ui.perspectives.ReportPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jubula.client.ui.views.TestCaseBrowser"/>
+<view id="org.eclipse.jubula.client.ui.views.ComponentNameBrowser"/>
+<view id="org.eclipse.jubula.client.ui.views.TestSuiteBrowser"/>
+<view id="org.eclipse.jubula.client.ui.views.RunningAuts"/>
+<view id="org.eclipse.ui.views.ProgressView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.jubula.client.ui.views.DataSetView"/>
+<view id="org.eclipse.jubula.client.ui.views.CompNamesView"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@92ed85">
+<folder activePageID="org.eclipse.jubula.client.ui.views.RunningAuts" appearance="2" expanded="2">
+<page content="org.eclipse.jubula.client.ui.views.RunningAuts" label="Running AUTs"/>
+<page content="org.eclipse.ui.views.ProgressView" label="Progress"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6f956" ratio="0.75" ratioLeft="756" ratioRight="252" relationship="2" relative="org.eclipse.ui.internal.ViewStack@92ed85">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.37910447" ratioLeft="381" ratioRight="624" relationship="2" relative="org.eclipse.ui.internal.ViewStack@92ed85"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@27f394" ratio="0.5991848" ratioLeft="441" ratioRight="295" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e88e24" ratio="0.49924126" ratioLeft="329" ratioRight="330" relationship="4" relative="org.eclipse.ui.internal.ViewStack@27f394">
+<folder activePageID="org.eclipse.jubula.client.ui.views.DataSetView" appearance="2" expanded="2">
+<page content="org.eclipse.jubula.client.ui.views.DataSetView" label="Data Sets"/>
+<page content="org.eclipse.jubula.client.ui.views.CompNamesView" label="Component Names"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1cc0a0f" ratio="0.7496206" ratioLeft="494" ratioRight="165" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.search.ui.views.SearchView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@16d3d51" ratio="0.39908952" ratioLeft="263" ratioRight="396" relationship="4" relative="org.eclipse.ui.internal.ViewStack@92ed85">
+<folder activePageID="org.eclipse.jubula.client.ui.views.TestCaseBrowser" appearance="2" expanded="2">
+<page content="org.eclipse.jubula.client.ui.views.TestCaseBrowser" label="Test Case Browser"/>
+<page content="org.eclipse.jubula.client.ui.views.ComponentNameBrowser" label="Component Name Browser"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@d4b473" ratio="0.3269962" ratioLeft="86" ratioRight="177" relationship="4" relative="org.eclipse.ui.internal.ViewStack@92ed85">
+<folder activePageID="org.eclipse.jubula.client.ui.views.TestSuiteBrowser" appearance="2" expanded="2">
+<page content="org.eclipse.jubula.client.ui.views.TestSuiteBrowser" label="Test Suite Browser"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" uri="file:/C:/Documents%20and%20Settings/Dmitry_Zimin1/git/jenkins/jenkins/.project"/>
+</editors>
+<item active="true" historyLabel=".project" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="org.eclipse.jubula.client.inspector.ui.inspectorView.toolbar"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name=".project" tooltip="C:\Documents and Settings\Dmitry_Zimin1\git\jenkins\jenkins\.project">
+<persistable uri="file:/C:/Documents%20and%20Settings/Dmitry_Zimin1/git/jenkins/jenkins/.project"/>
+</file>
+</mruList>
+</workbench>
