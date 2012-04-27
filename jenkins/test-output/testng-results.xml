@@ -2,14 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21812" started-at="2012-04-27T09:01:56Z" finished-at="2012-04-27T09:02:18Z">
+  <suite name="Default suite" duration-ms="3562" started-at="2012-04-27T16:44:44Z" finished-at="2012-04-27T16:44:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21812" started-at="2012-04-27T09:01:56Z" finished-at="2012-04-27T09:02:18Z">
+    <test name="Default test" duration-ms="3562" started-at="2012-04-27T16:44:44Z" finished-at="2012-04-27T16:44:48Z">
       <class name="com.bromine.test.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bromine.test.LoginTest@fc9944]" name="setUp" is-config="true" duration-ms="7687" started-at="2012-04-27T09:01:56Z" finished-at="2012-04-27T09:02:04Z">
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testUntitled()[pri:0, instance:com.bromine.test.LoginTest@fc9944]" name="testUntitled" duration-ms="14093" started-at="2012-04-27T09:02:04Z" finished-at="2012-04-27T09:02:18Z">
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:com.bromine.test.LoginTest@2db19d]" name="testUntitled" duration-ms="3546" started-at="2012-04-27T16:44:44Z" finished-at="2012-04-27T16:44:48Z">
         </test-method> <!-- testUntitled -->
       </class> <!-- com.bromine.test.LoginTest -->
     </test> <!-- Default test -->

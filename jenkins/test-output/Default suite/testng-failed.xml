@@ -6,7 +6,6 @@
       <class name="com.bromine.test.LoginTest">
         <methods>
           <include name="testUntitled"/>
-          <include name="setUp"/>
         </methods>
       </class> <!-- com.bromine.test.LoginTest -->
     </classes>

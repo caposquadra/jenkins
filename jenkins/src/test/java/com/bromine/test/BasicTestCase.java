@@ -6,7 +6,7 @@ import org.testng.annotations.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import com.bromine.data.UserData;
-import com.bromine.utils.ConfigProperties;
+//import com.bromine.utils.ConfigProperties;
 
 public class BasicTestCase {
 
@@ -17,13 +17,12 @@ public class BasicTestCase {
     protected WebDriver getWebDriver () {
 	if (driver == null) {
 		driver = new FirefoxDriver();
-		driver.manage().timeouts().implicitlyWait(Long.parseLong(ConfigProperties.getProperty("imp.wait")), TimeUnit.SECONDS);
+	//	driver.manage().timeouts().implicitlyWait(Long.parseLong(ConfigProperties.getProperty("imp.wait")), TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	}
         return driver;
    }
 
-    
-    
     //@AfterMethod
 	//@AfterTest
 	//public void tearDown() throws Exception {
