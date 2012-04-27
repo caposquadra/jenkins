@@ -23,8 +23,8 @@ public class LoginTest {
 		driver.get(baseUrl);
 		
 		try {
-		driver.findElement(By.id("UserName1")).clear();
-		driver.findElement(By.id("UserName1")).sendKeys("admin1");}
+		driver.findElement(By.id("UserName")).clear();
+		driver.findElement(By.id("UserName")).sendKeys("admin1");}
 		catch (NoSuchElementException e){
 		System.out.println("the field does't exist");
 		}
